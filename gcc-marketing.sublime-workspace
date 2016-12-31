@@ -1,0 +1,1531 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nim_",
+				"nim_order"
+			],
+			[
+				"data",
+				"data_pendaftar\tclass"
+			],
+			[
+				"Mode",
+				"ModelForm\tModelForm"
+			],
+			[
+				"no_tes",
+				"no_tes_mhs"
+			],
+			[
+				"NUM",
+				"NUM2ND"
+			],
+			[
+				"float",
+				"floatformat"
+			],
+			[
+				"cust",
+				"cust_id"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"maha",
+				"mahasiswa"
+			],
+			[
+				"id",
+				"id_mhs_cetak"
+			],
+			[
+				"id_mhs",
+				"id_mhs"
+			],
+			[
+				"mahasis",
+				"mahasiswa_cetak"
+			],
+			[
+				"no_te",
+				"no_tes"
+			],
+			[
+				"fal",
+				"false"
+			],
+			[
+				"is_by",
+				"is_byr_dftr\tstatement"
+			],
+			[
+				"PA",
+				"PAIDST"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"is",
+				"is_byr\tstatement"
+			],
+			[
+				"get_",
+				"get_bill\tstatement"
+			],
+			[
+				"SCCT",
+				"SCCTBILL\tclass"
+			],
+			[
+				"bill",
+				"bill_exist\tstatement"
+			],
+			[
+				"bill_",
+				"bill_pk\tstatement"
+			],
+			[
+				"bil",
+				"bill_tag\tstatement"
+			],
+			[
+				"bia",
+				"biaya_bill\tforstmt"
+			],
+			[
+				"biaya",
+				"biaya_bill\tforstmt"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"SCC",
+				"SCCTCUST\tclass"
+			],
+			[
+				"undur",
+				"undur_diri\tstatement"
+			],
+			[
+				"notes",
+				"no_tes_mhs\tstatement"
+			],
+			[
+				"str",
+				"strftime"
+			],
+			[
+				"mhs",
+				"mhs_undur\tstatement"
+			],
+			[
+				"alamt",
+				"alamat_id"
+			],
+			[
+				"alamat",
+				"alamat_pendaftar\tclass"
+			],
+			[
+				"nim",
+				"nim_mhs"
+			],
+			[
+				"id_p",
+				"id_pendaftar"
+			],
+			[
+				"z",
+				"zfill\tfunction"
+			],
+			[
+				"Trans",
+				"Trans_registrasi\tclass"
+			],
+			[
+				"prodi_nama",
+				"prodi_nama_fakultas"
+			],
+			[
+				"pro",
+				"program_studi\tstatement"
+			],
+			[
+				"tanggal",
+				"tanggal_lahir"
+			],
+			[
+				"cetak",
+				"cetak_ktm"
+			],
+			[
+				"detail",
+				"detail_mhs\tstatement"
+			],
+			[
+				"is_cet",
+				"is_cetak"
+			],
+			[
+				"soal",
+				"soal_mhs"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"prodi",
+				"prodi_sertifikat_id\tstatement"
+			],
+			[
+				"prod",
+				"prodi_sertifikat_id"
+			],
+			[
+				"prdo_ser",
+				"prodi_sertifikat_id\tstatement"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"tbod",
+				"tbody_registrasi"
+			],
+			[
+				"tes_ke",
+				"tes_ke_mhs"
+			],
+			[
+				"value",
+				"values_list"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mt-card-",
+				"mt-card-name"
+			],
+			[
+				"mt-card",
+				"mt-card-name"
+			],
+			[
+				"bla",
+				"blank"
+			],
+			[
+				"undru",
+				"undur_diri\tfunction"
+			],
+			[
+				"aja",
+				"ajax"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"no",
+				"no_tes_mhs\tstatement"
+			],
+			[
+				"tru",
+				"tr_u\tstatement"
+			],
+			[
+				"prodi_serti",
+				"prodi_sertifikat_id"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"no_",
+				"no_tes_mhs_id\tstatement"
+			],
+			[
+				"csrf",
+				"csrfmiddlewaretoken"
+			],
+			[
+				"is_ce",
+				"is_cetak\tstatement"
+			],
+			[
+				"is_cetak",
+				"is_cetak_sertifikat"
+			],
+			[
+				"is_ceta",
+				"is_cetak_ulang\tstatement"
+			],
+			[
+				"date",
+				"DateTimeField"
+			],
+			[
+				"mahasi",
+				"mahasiswa\tstatement"
+			],
+			[
+				"mahasiswa",
+				"mahasiswa_ctk\tforstmt"
+			],
+			[
+				"ret",
+				"ret_is_cetak\tstatement"
+			],
+			[
+				"to",
+				"to_field"
+			],
+			[
+				"sear",
+				"search-bar"
+			],
+			[
+				"input",
+				"input_no_tes"
+			],
+			[
+				"modal_prdo",
+				"modal_prodi_nama_jurusan"
+			],
+			[
+				"json",
+				"json"
+			],
+			[
+				"nama",
+				"nama_mhs"
+			],
+			[
+				"lis",
+				"list"
+			],
+			[
+				"get",
+				"get_prodi"
+			],
+			[
+				"pass",
+				"pass_grade"
+			],
+			[
+				"draw",
+				"drawString"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"hei",
+				"height\tstatement"
+			],
+			[
+				"ajax",
+				"ajax request"
+			],
+			[
+				"db",
+				"db_column"
+			],
+			[
+				"Pro",
+				"Program_studi"
+			],
+			[
+				"Progra",
+				"Program_studi\tclass"
+			],
+			[
+				"Model",
+				"Model\tModel"
+			],
+			[
+				"conso",
+				"console.log()"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"pdf",
+				"pdf_sertifikat\tfunction"
+			],
+			[
+				"response",
+				"response"
+			],
+			[
+				"sele",
+				"select2"
+			],
+			[
+				"select",
+				"select_prodi"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"meta",
+				"meta_vnp"
+			],
+			[
+				"last",
+				"last_query"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"dra",
+				"Drawing"
+			],
+			[
+				"rende",
+				"render_to_pdf"
+			],
+			[
+				"set",
+				"settings\timport"
+			],
+			[
+				"login",
+				"login_required\timport"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"link",
+				"linkedin"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bottom-",
+				"bottom-sub"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"admin",
+				"adminview\tModel Admin View"
+			],
+			[
+				"ma",
+				"Mahasiswa_cetak\tstatement"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"karyawa",
+				"karyawan_id"
+			],
+			[
+				"karyaw",
+				"karyawan_id"
+			],
+			[
+				"Karyaw",
+				"Karyawan\tclass"
+			],
+			[
+				"cola",
+				"collapse-link"
+			],
+			[
+				"karyawan",
+				"karyawan_id\tparam"
+			],
+			[
+				"Ka",
+				"Karyawan\tclass"
+			],
+			[
+				"kel",
+				"keluarga\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3227,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/modules/dashboard/controllers/pemesanan.php",
+			"settings":
+			{
+				"buffer_size": 13510,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/modules/dashboard/controllers/pembayaran.php",
+			"settings":
+			{
+				"buffer_size": 7072,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/flat-dot/pembayaran/bg_cetak.php",
+			"settings":
+			{
+				"buffer_size": 3974,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/helpers/gen_pdf_helper.php",
+			"settings":
+			{
+				"buffer_size": 1120,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 897 files for \"pdf_create\"\n\nF:\\XAMPP\\htdocs\\gcc-marketing\\application\\helpers\\gen_pdf_helper.php:\n    1  <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');\n    2  \n    3: if ( ! function_exists('pdf_create'))\n    4  {\n    5: \tfunction pdf_create($html, $filename, $stream=FALSE) \n    6  \t{\n    7  \t\trequire_once(\"dompdf/dompdf_config.inc.php\");\n\nF:\\XAMPP\\htdocs\\gcc-marketing\\application\\modules\\dashboard\\controllers\\pembayaran.php:\n  146   \t\t\t\n  147  \t\t\t$html = $this->load->view($GLOBALS['site_theme'].\"/pembayaran/bg_cetak\",$d, true);\n  148: \t\t\tpdf_create($html,$id_param.time().\"\");\n  149  \t\t}\n  150  \t\telse\n\n3 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 674,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 113.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindne",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"setsynphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"setsynpyth",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"reinen",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"run",
+				"Django: Run Server"
+			],
+			[
+				"runser",
+				"Django: Run Server"
+			],
+			[
+				"makemi",
+				"Django: Make Migration"
+			],
+			[
+				"mek",
+				"Django: Make Migration"
+			],
+			[
+				"migra",
+				"Django: Migrate Database"
+			],
+			[
+				"migrate",
+				"Django: Migrate Database"
+			],
+			[
+				"make",
+				"Django: Make Migration"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"command",
+				"Django: Other Command"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packlis",
+				"Package Control: List Packages"
+			],
+			[
+				"packalist",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"python",
+			"sublime.active_window().project_data()",
+			"socket.socket(socket.AF_INET,socket.SOCK_STREAM).connect((\"localhost\", 50181))",
+			"import socket",
+			"import socket;",
+			"impoty socket;",
+			"Django",
+			"Run Server",
+			"Django: Run Server",
+			"django: help",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/XAMPP/htdocs/gcc-marketing",
+		"/F/XAMPP/htdocs/gcc-marketing/application",
+		"/F/XAMPP/htdocs/gcc-marketing/application/modules",
+		"/F/XAMPP/htdocs/gcc-marketing/application/modules/dashboard",
+		"/F/XAMPP/htdocs/gcc-marketing/application/modules/dashboard/controllers"
+	],
+	"file_history":
+	[
+		"/F/XAMPP/htdocs/gcc-marketing/application/views/flat-dot/pemesanan/bg_set_kwitansi.php",
+		"/F/XAMPP/htdocs/gcc-marketing/application/views/flat-dot/pemesanan/bg_home.php",
+		"/F/XAMPP/htdocs/gcc-marketing/application/views/flat-dot/pembayaran/bg_cetak.php",
+		"/F/XAMPP/htdocs/gcc-marketing/application/modules/dashboard/controllers/dashboard.php",
+		"/F/UMS/PMB/administrasi_validasi/templates/cetak_sertifikat/registrasi.html",
+		"/F/UMS/PMB/administrasi_validasi/cetak_sertifikat/views.py",
+		"/F/UMS/PMB/administrasi_validasi/templates/sidebar.html",
+		"/F/UMS/PMB/administrasi_validasi/administrasi/settings.py",
+		"/F/Project/ongkir/web/static/index.html",
+		"/F/Project/ongkir/web/templates/cek_koneksi.html",
+		"/F/UMS/PMB/administrasi_validasi/cetak_sertifikat/models.py",
+		"/F/UMS/PMB/administrasi_validasi/templates/cetak_sertifikat/undur_diri.html",
+		"/F/UMS/PMB/administrasi_validasi/validasi/views.py",
+		"/F/UMS/PMB/administrasi_validasi/peserta/models.py",
+		"/F/Project/ongkir/web/ongkir/views.py",
+		"/F/Project/ongkir/web/templates/header.html",
+		"/F/Project/ongkir/web/web/settings.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/views.py",
+		"/F/UMS/PMB/administrasi_validasi/templates/cetak_sertifikat/cetak_sertifikat.html",
+		"/F/UMS/PMB/administrasi_validasi/bank/models.py",
+		"/F/UMS/PMB/administrasi_validasi/templates/cetak_sertifikat/detail_mhs.html",
+		"/F/XAMPP/htdocs/alumni/application/models/Alumni_model.php",
+		"/F/XAMPP/htdocs/alumni/application/controllers/Alumni.php",
+		"/F/UMS/PMB/administrasi_validasi/administrasi/urls.py",
+		"/F/UMS/PMB/administrasi_validasi/templates/cetak_sertifikat/passing_grade.html",
+		"/F/UMS/PMB/administrasi_validasi/templates/cetak_sertifikat/admin_panel.html",
+		"/F/UMS/PMB/administrasi_validasi/pendaftaran/migrations/0002_auto_20161216_0815.py",
+		"/F/UMS/[THEME]/metronic_v4.7.1/theme/admin_4/ui_extended_modals.html",
+		"/F/UMS/[THEME]/metronic_v4.7.1/theme/admin_4/ui_extended_modals_ajax_sample.html",
+		"/F/UMS/PMB/administrasi_validasi/templates/cetak_sertifikat/cetak_dokumen.html",
+		"/F/UMS/PMB/administrasi_validasi/templates/validasi/registrasi_cetak.html",
+		"/F/UMS/PMB/administrasi_validasi/templates/header.html",
+		"/F/UMS/PMB/administrasi_validasi/templates/base.html",
+		"/F/UMS/PMB/administrasi_validasi/pendaftaran/models.py",
+		"/F/UMS/PMB/administrasi_validasi/templates/cetak_sertifikat/cetak_hasil.html",
+		"/F/UMS/PMB/administrasi_validasi/templates/cetak_sertifikat/cetak_ulang_sertifikat.html",
+		"/F/UMS/PMB/administrasi_validasi/validasi/models.py",
+		"/F/UMS/PMB/administrasi_validasi/adminstrasi_validasi/cetak_sertifikat/views.py",
+		"/F/UMS/PMB/administrasi_validasi/adminstrasi_validasi/administrasi/settings.py",
+		"/F/UMS/PMB/administrasi_validasi/adminstrasi_validasi/cetak_sertifikat/models.py",
+		"/F/UMS/PMB/administrasi_validasi_2/cetak_sertifikat/views.py",
+		"/F/UMS/PMB/administrasi/templates/cetak_sertifikat/undur_diri.html",
+		"/F/UMS/PMB/administrasi/templates/cetak_sertifikat/cetak_dokumen.html",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/models.py",
+		"/F/UMS/PMB/validasi/regpmb/regpmb/urls.py",
+		"/F/UMS/PMB/validasi/regpmb/pendaftaran/models.py",
+		"/F/UMS/PMB/administrasi/templates/cetak_sertifikat/cetak_sertifikat.html",
+		"/F/UMS/PMB/administrasi/templates/base.html",
+		"/F/UMS/PMB/administrasi/administrasi/settings.py",
+		"/F/UMS/PMB/administrasi/templates/cetak_sertifikat/cetak_ulang_sertifikat.html",
+		"/F/UMS/PMB/administrasi/templates/login.html",
+		"/F/UMS/PMB/administrasi/static/global/css/components.min.css",
+		"/F/UMS/PMB/administrasi/static/global/css/components.css",
+		"/F/UMS/PMB/administrasi/administrasi/urls.py",
+		"/C/Users/mn/Desktop/cetak_sertifikat_mahasiswa.sql",
+		"/F/UMS/PMB/administrasi/templates/cetak_sertifikat/admin_panel.html",
+		"/F/UMS/PMB/administrasi/templates/cetak_sertifikat/passing_grade.html",
+		"/F/UMS/PMB/administrasi/templates/header.html",
+		"/F/UMS/PMB/administrasi/templates/sidebar.html",
+		"/F/UMS/PMB/administrasi/templates/cetak_sertifikat/registrasi.html",
+		"/F/UMS/PMB/administrasi/templates/cetak_sertifikat/detail_mhs.html",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/admin.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0001_initial.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0011_mahasiswa_tanggal_tes.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0013_auto_20161123_1237.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0012_auto_20161123_1236.py",
+		"/C/Users/mn/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/mn/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/mn/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/evaluate_javascript/Evaluate-JavaScript.sublime-settings",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0012_auto_20161123_1223.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0013_auto_20161123_1229.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0013_auto_20161123_1227.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0013_auto_20161123_1224.py",
+		"/F/UMS/PMB/administrasi/administrasi/wsgi.py",
+		"/F/UMS/PMB/administrasi/templates/cetak_sertifikat/cetak_hasil.html",
+		"/F/UMS/PMB/administrasi/templates/cetak_sertifikat/404_not_found.html",
+		"/F/UMS/[THEME]/metronic_v4.7.1/theme/admin_4/page_system_404_3.html",
+		"/F/UMS/[THEME]/metronic_v4.7.1/theme/admin_4/page_user_lock_1.html",
+		"/F/UMS/PMB/administrasi/static/pages/scripts/ui-idletimeout.js",
+		"/F/UMS/PMB/Notes/Backup/cetak_sertifikat/cetak_sertifikat.html",
+		"/F/UMS/PMB/Notes/Backup/cetak_sertifikat/cetak_dokumen.html",
+		"/F/UMS/[THEME]/metronic_v4.7.1/theme/admin_4/layout_blank_page.html",
+		"/F/UMS/[THEME]/metronic_v4.7.1/theme/admin_4_rounded/page_user_login_1.html",
+		"/F/UMS/[THEME]/metronic_v4.7.1/theme/admin_4/._page_user_login_1.html",
+		"/F/UMS/PMB/Notes/Backup/login.html",
+		"/F/UMS/PMB/administrasi/templates/admin_panel.html",
+		"/F/UMS/[THEME]/metronic_v4.7.1/theme_rtl/admin_4/layout_blank_page.html",
+		"/F/UMS/[THEME]/metronic_v4.7.1/theme_rtl/admin_4/page_user_login_1.html",
+		"/F/UMS/[THEME]/metronic_v4.7.1/theme_rtl/admin_4/page_user_lock_1.html",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/routers.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0003_auto_20161110_1410.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0002_auto_20161110_1403.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0002_auto_20161110_1338.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0006_bill.py",
+		"/C/Program Files/PostgreSQL/9.6/data/postgresql.conf",
+		"/C/Program Files/PostgreSQL/9.6/share/postgresql.conf.sample",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0004_auto_20161021_1326.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0003_auto_20161021_1246.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0002_auto_20161021_1055.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/__init__.py",
+		"/F/Project/hrd/karyawan/models.py",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/migrations/0005_program_studi.py",
+		"/C/Users/mn/Desktop/cetak_sertifikat_bill.sql",
+		"/C/Program Files/PostgreSQL/9.6/data/pg_hba.conf",
+		"/F/UMS/PMB/administrasi/templates/profile_menu.html",
+		"/F/UMS/statistik_pmb.php",
+		"/F/XAMPP/htdocs/sia/application/views/pmb/view_grafik_kumulatif_2.php",
+		"/F/XAMPP/htdocs/sia/application/views/pmb/view_statistik_pmb.php",
+		"/C/Users/mn/Desktop/test_002_paras_index.rml",
+		"/F/Project/hrd/karyawan/views.py",
+		"/F/Project/hrd/templates/karyawan/edit_karyawan.html",
+		"/F/Project/webpos/templates/web/web_data_barang.html",
+		"/F/Project/webpos/templates/web/web_data_customer.html",
+		"/F/Project/webpos/templates/web/web_edit_barang.html",
+		"/F/Project/webpos/templates/web/web_transaksi.html",
+		"/F/Project/reguser/pendaftaran/templates/pendaftaran/daftar_baru.html",
+		"/F/Project/reguser/pendaftaran/templates/pendaftaran/daftar_edit.html",
+		"/C/Users/mn/Documents/test_006_barcodes.rml",
+		"/C/Users/mn/Documents/test_000_catchforms.rml",
+		"/F/UMS/PMB/administrasi/templates/top_menu.html",
+		"/F/UMS/PMB/administrasi/templates/side_menu.html",
+		"/F/Project/hrd/templates/karyawan/detail_karyawan.html",
+		"/C/Users/mn/Desktop/email.html",
+		"/C/Users/mn/Desktop/email2.html",
+		"/C/Users/mn/Desktop/view_grafik_kumulatif.php",
+		"/C/Users/mn/Desktop/demo/scripts/respond.min.js",
+		"/F/UMS/PMB/administrasi/cetak_sertifikat/learningBarcode.py",
+		"/C/Users/mn/Desktop/contoh.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"F:\\XAMPP\\htdocs\\gcc-marketing",
+			"F:\\UMS\\PMB\\administrasi_validasi\\templates\\cetak_sertifikat",
+			"F:\\XAMPP\\htdocs\\sia\\application\\views\\pmb",
+			"F:\\UMS\\isrecod",
+			"F:\\Project\\reguser",
+			"F:\\Project\\hrd",
+			"F:\\UMS\\isrecod",
+			"F:\\XAMPP\\htdocs\\siap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Form Pembayaran",
+			"No. Nama Item Jumlah",
+			"$get_head->",
+			"pdf_create",
+			"form_cetak_ulang_sertifikat",
+			"btn_modal_cetak_ulang",
+			"no",
+			"nim_order",
+			",530",
+			"(300,",
+			"(200",
+			"TTL",
+			"strftime",
+			"17.5 *",
+			"1",
+			"p1 = [[Paragraph('Semua dokumen yang digunakan dalam proses pendaftaran adalah sesuai dengan dokumen asli yang bersifat otentik dan dikeluarkan oleh lembaga yang dapat dipertanggung-jawabkan;', styleSheet[\"BodyText\"])]]",
+			"getSampleStyleSheet",
+			"styleSheet",
+			"Paragraph",
+			"coord",
+			"wrapOn",
+			"colors",
+			"Table",
+			"portofolioM",
+			"portofoliom",
+			"potmodal",
+			"h3",
+			"intcomma",
+			"int",
+			"biaya_bill.nominal",
+			"floatformat",
+			"biaya_bill.nominal",
+			"id_mhs_cetak",
+			"cetak_bukti_reg",
+			"pdf_bukti_reg",
+			"btn_cari_no_tes",
+			"is serti",
+			"\\",
+			"/",
+			"is_file",
+			"simpan_registrasi",
+			"foto.foto.url",
+			".get",
+			"get",
+			":\n",
+			")\n",
+			"bill_tag",
+			"biaya_bill",
+			"bill_tag",
+			" = ",
+			".",
+			" = ",
+			"scctcust",
+			"get_biaya",
+			"SCCTBILL",
+			"get_biaya",
+			"save()",
+			"form_sertifikat",
+			"btn_cetak_sertifikat",
+			"[Err] [Imp] ",
+			"[Err] [Imp] 23000 - [SQL Server]Cannot insert explicit value for identity column in table 'cetak_sertifikat_bill' when IDENTITY_INSERT is set to OFF.",
+			"val.",
+			"] = ",
+			"\": ",
+			"strftime",
+			"render",
+			"form_undur_diri",
+			"no_tes_mhs_id",
+			"n =",
+			"(, ",
+			"IntegerField(max_length",
+			"DateTimeField",
+			"datetime",
+			"models.CharField(max_length=",
+			"char]",
+			"bigint",
+			"[bigint]",
+			"bigint",
+			".[",
+			"0,",
+			"0",
+			"data_pendaftar",
+			"(80,",
+			"80",
+			"KTM",
+			"Courier",
+			"60",
+			"cetak_ktm",
+			"request",
+			"=\"\"",
+			"id_mhs_cetak",
+			"pdf_bukti_reg",
+			"Jl. A. Yani Tromol Pos 1 Telp (0271) 717417 Surakarta 57162",
+			"Story",
+			"550",
+			"180",
+			"590",
+			"710",
+			"\":\"+",
+			"cetak_bukti_reg",
+			"simpan_registrasi",
+			"id_mhs",
+			"no_tes_mhs_id",
+			"id_mhs",
+			"\"kode\": '",
+			"<div class=\"col-md-9\">",
+			"class=\"col-md-3",
+			"path",
+			"foto-mhs",
+			"peserta.",
+			"foto",
+			"peserta.foto.path",
+			"foto",
+			".nik",
+			"nik",
+			"\"12121304900001\"",
+			"\"Balikpapan, 13/04/1990\"",
+			"100",
+			"  ",
+			"== ",
+			"m.soal_mhs =",
+			"soal_mhs =",
+			"is_cetak_sertifikat",
+			": m.",
+			"': m.",
+			"m.",
+			"strftime",
+			"', '"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mysqli_connect(\"localhost\",\"root\",\"\",\"c12nilai\");"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/config/database.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2588,
+								2588
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/modules/dashboard/controllers/pemesanan.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7139,
+								7149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3579.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/modules/dashboard/controllers/pembayaran.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5056,
+								5056
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1899.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/views/flat-dot/pembayaran/bg_cetak.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/helpers/gen_pdf_helper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										230,
+										240
+									],
+									[
+										270,
+										280
+									],
+									[
+										584,
+										594
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gcc-marketing.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bg_cetak",
+				"application\\views\\flat-dot\\pembayaran\\bg_cetak.php"
+			],
+			[
+				"bg_home",
+				"application\\views\\flat-dot\\pemesanan\\bg_home.php"
+			],
+			[
+				"bg_set_kwitansi",
+				"application\\views\\flat-dot\\pemesanan\\bg_set_kwitansi.php"
+			],
+			[
+				"pembaya",
+				"application\\modules\\dashboard\\controllers\\pembayaran.php"
+			],
+			[
+				"pemesana",
+				"application\\modules\\dashboard\\controllers\\pemesanan.php"
+			],
+			[
+				"dash",
+				"application\\modules\\dashboard\\controllers\\dashboard.php"
+			],
+			[
+				"cetakulangser",
+				"templates\\cetak_sertifikat\\cetak_ulang_sertifikat.html"
+			],
+			[
+				"models",
+				"cetak_sertifikat\\models.py"
+			],
+			[
+				"views",
+				"cetak_sertifikat\\views.py"
+			],
+			[
+				"admin",
+				"cetak_sertifikat\\admin.py"
+			],
+			[
+				"settings",
+				"administrasi\\settings.py"
+			],
+			[
+				"side",
+				"templates\\sidebar.html"
+			],
+			[
+				"cetaksert",
+				"templates\\cetak_sertifikat\\cetak_sertifikat.html"
+			],
+			[
+				"setting",
+				"administrasi\\settings.py"
+			],
+			[
+				"undurdiri",
+				"templates\\cetak_sertifikat\\undur_diri.html"
+			],
+			[
+				"view",
+				"cetak_sertifikat\\views.py"
+			],
+			[
+				"model",
+				"cetak_sertifikat\\models.py"
+			],
+			[
+				"detail",
+				"templates\\cetak_sertifikat\\detail_mhs.html"
+			],
+			[
+				"url",
+				"administrasi\\urls.py"
+			],
+			[
+				"passin",
+				"templates\\cetak_sertifikat\\passing_grade.html"
+			],
+			[
+				"registrasi",
+				"templates\\cetak_sertifikat\\registrasi.html"
+			],
+			[
+				"adminpanel",
+				"templates\\cetak_sertifikat\\admin_panel.html"
+			],
+			[
+				"cetakdoku",
+				"templates\\cetak_sertifikat\\cetak_dokumen.html"
+			],
+			[
+				"cetak_sertifikat",
+				"templates\\cetak_sertifikat\\cetak_sertifikat.html"
+			],
+			[
+				"base",
+				"templates\\base.html"
+			],
+			[
+				"header",
+				"templates\\header.html"
+			],
+			[
+				"cetak_dokumen",
+				"templates\\cetak_sertifikat\\cetak_dokumen.html"
+			],
+			[
+				"urls",
+				"administrasi\\urls.py"
+			],
+			[
+				"registras",
+				"templates\\cetak_sertifikat\\registrasi.html"
+			],
+			[
+				"ulrs",
+				"administrasi\\urls.py"
+			],
+			[
+				"componenmin",
+				"static\\global\\css\\components.min.css"
+			],
+			[
+				"componen",
+				"static\\global\\css\\components.css"
+			],
+			[
+				"sideme",
+				"static\\pages\\scripts\\ui-idletimeout.js"
+			],
+			[
+				"adminpane",
+				"templates\\cetak_sertifikat\\admin_panel.html"
+			],
+			[
+				"pmbmodel",
+				"application\\models\\statistik_pmb_model.php"
+			],
+			[
+				"rekap",
+				"templates\\hibah\\rekap.html"
+			],
+			[
+				"hibahview",
+				"hibah\\views.py"
+			],
+			[
+				"sppdview",
+				"sppd\\views.py"
+			],
+			[
+				"ulr",
+				"mini_hrd\\urls.py"
+			],
+			[
+				"statistik",
+				"application\\controllers\\statistik_pmb.php"
+			],
+			[
+				"view_grafik_kumulatif",
+				"application\\views\\pmb\\view_grafik_kumulatif.php"
+			],
+			[
+				"viewgrafikkes",
+				"application\\views\\pmb\\view_grafik_keseluruhan.php"
+			],
+			[
+				"viewgrafikkompa",
+				"application\\views\\pmb\\view_grafik_komparasi.php"
+			],
+			[
+				"route",
+				"application\\config\\routes.php"
+			],
+			[
+				"viewkesel",
+				"application\\views\\pmb\\view_grafik_keseluruhan.php"
+			],
+			[
+				"statis",
+				"application\\controllers\\statistik_pmb.php"
+			],
+			[
+				"statispmb",
+				"application\\models\\statistik_pmb_model.php"
+			],
+			[
+				"statispmbmodel",
+				"application\\models\\statistik_pmb_model.php"
+			],
+			[
+				"ee1",
+				"ee1.php"
+			],
+			[
+				"e1",
+				"e1.php"
+			],
+			[
+				"input_prostho",
+				"input_prostho.php"
+			],
+			[
+				"t1",
+				"t1.php"
+			],
+			[
+				"tatpmbmodel",
+				"application\\models\\statistik_pmb_model.php"
+			],
+			[
+				"config",
+				"application\\config\\config.php"
+			],
+			[
+				"common",
+				"system\\core\\Common.php"
+			],
+			[
+				"database",
+				"application\\config\\database.php"
+			],
+			[
+				"routes",
+				"application\\config\\routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
