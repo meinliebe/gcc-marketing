@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"id",
+				"id_param"
+			],
+			[
 				"nim_",
 				"nim_order"
 			],
@@ -38,10 +42,6 @@
 			[
 				"maha",
 				"mahasiswa"
-			],
-			[
-				"id",
-				"id_mhs_cetak"
 			],
 			[
 				"id_mhs",
@@ -520,14 +520,6 @@
 	"buffers":
 	[
 		{
-			"file": "application/config/database.php",
-			"settings":
-			{
-				"buffer_size": 3227,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "application/modules/dashboard/controllers/pemesanan.php",
 			"settings":
 			{
@@ -539,7 +531,7 @@
 			"file": "application/modules/dashboard/controllers/pembayaran.php",
 			"settings":
 			{
-				"buffer_size": 7072,
+				"buffer_size": 7662,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -548,27 +540,50 @@
 			"file": "application/views/flat-dot/pembayaran/bg_cetak.php",
 			"settings":
 			{
-				"buffer_size": 3974,
+				"buffer_size": 337,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "application/helpers/gen_pdf_helper.php",
+			"contents": "USE [ODS_2017_DEV]\nGO\n\nINSERT INTO [dbo].[cetak_sertifikat_program_studi]\n           ([prodi_id]\n           ,[prodi_nama_jurusan]\n           ,[prodi_nama_fakultas]\n           ,[prodi_nim]\n           ,[prodi_group]\n           ,[prodi_kuota]\n           ,[prodi_passing_grade])\n     VALUES           \n           (<prodi_id, nvarchar(4), 100>\n           ,<prodi_nama_jurusan, nvarchar(200), \"Management - NDHU (NATIONAL Donghwa Univ)\">\n           ,<prodi_nama_fakultas, nvarchar(200), \"EKONOMI\">\n           ,<prodi_nim, nvarchar(50), B200>\n           ,<prodi_group, nvarchar(5), 2>\n           ,<prodi_kuota, int, 20>\n           ,<prodi_passing_grade, int, 46>)\n           ,<prodi_bank, nvarchar(200), \"BUKOPIN\">)\nGO\n\n\n144\n\t,100\n\t,Management - NDHU (NATIONAL Donghwa Univ)\n\t,EKONOMI\n\t,B200\n\t,2\n\t,20\n\t,46\n\t,BUKOPIN\n\n\n\nUSE [ODS_2017_DEV]\nGO\n\nINSERT INTO [dbo].[cetak_sertifikat_program_studi]\n           ([prodi_id]\n           ,[prodi_nama_jurusan]\n           ,[prodi_nama_fakultas]\n           ,[prodi_nim]\n           ,[prodi_group]\n           ,[prodi_kuota]\n           ,[prodi_passing_grade]\n           ,[prodi_bank])\n     VALUES\n144,\t100,\tManagement - NDHU (National Donghwa Univ),\n\tEKONOMI,\tB200,\t2,\t20,\t46,\tBUKOPIN\nGO\n\n\n",
 			"settings":
 			{
-				"buffer_size": 1120,
+				"buffer_size": 1217,
+				"line_ending": "Windows",
+				"name": "USE [ODS_2017_DEV]"
+			}
+		},
+		{
+			"file": "application/views/flat-dot/pembayaran/bg_cetak_original.php",
+			"settings":
+			{
+				"buffer_size": 6327,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "Searching 897 files for \"pdf_create\"\n\nF:\\XAMPP\\htdocs\\gcc-marketing\\application\\helpers\\gen_pdf_helper.php:\n    1  <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');\n    2  \n    3: if ( ! function_exists('pdf_create'))\n    4  {\n    5: \tfunction pdf_create($html, $filename, $stream=FALSE) \n    6  \t{\n    7  \t\trequire_once(\"dompdf/dompdf_config.inc.php\");\n\nF:\\XAMPP\\htdocs\\gcc-marketing\\application\\modules\\dashboard\\controllers\\pembayaran.php:\n  146   \t\t\t\n  147  \t\t\t$html = $this->load->view($GLOBALS['site_theme'].\"/pembayaran/bg_cetak\",$d, true);\n  148: \t\t\tpdf_create($html,$id_param.time().\"\");\n  149  \t\t}\n  150  \t\telse\n\n3 matches across 2 files\n",
+			"file": "application/views/flat-dot/bg_header.php",
 			"settings":
 			{
-				"buffer_size": 674,
-				"line_ending": "Windows",
-				"name": "Find Results",
-				"scratch": true
+				"buffer_size": 5837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/app_load_data_model.php",
+			"settings":
+			{
+				"buffer_size": 26931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/flat-dot/pemesanan/bg_home.php",
+			"settings":
+			{
+				"buffer_size": 1027,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -579,12 +594,20 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 113.0,
-		"last_filter": "",
+		"height": 88.0,
+		"last_filter": "reinden",
 		"selected_items":
 		[
 			[
 				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"REINDEN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindn",
 				"Indentation: Reindent Lines"
 			],
 			[
@@ -676,7 +699,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 432.0
+		"width": 480.0
 	},
 	"console":
 	{
@@ -709,16 +732,21 @@
 	[
 		"/F/XAMPP/htdocs/gcc-marketing",
 		"/F/XAMPP/htdocs/gcc-marketing/application",
-		"/F/XAMPP/htdocs/gcc-marketing/application/modules",
-		"/F/XAMPP/htdocs/gcc-marketing/application/modules/dashboard",
-		"/F/XAMPP/htdocs/gcc-marketing/application/modules/dashboard/controllers"
+		"/F/XAMPP/htdocs/gcc-marketing/application/libraries",
+		"/F/XAMPP/htdocs/gcc-marketing/system"
 	],
 	"file_history":
 	[
-		"/F/XAMPP/htdocs/gcc-marketing/application/views/flat-dot/pemesanan/bg_set_kwitansi.php",
-		"/F/XAMPP/htdocs/gcc-marketing/application/views/flat-dot/pemesanan/bg_home.php",
+		"/C/Users/mn/Desktop/ascii.txt",
 		"/F/XAMPP/htdocs/gcc-marketing/application/views/flat-dot/pembayaran/bg_cetak.php",
+		"/F/XAMPP/htdocs/gcc-marketing/application/views/flat-dot/bg_footer.php",
+		"/F/XAMPP/htdocs/gcc-marketing/application/views/flat-dot/bg_home.php",
+		"/F/XAMPP/htdocs/gcc-marketing/application/helpers/gen_pdf_helper.php",
+		"/F/XAMPP/htdocs/gcc-marketing/application/views/flat-dot/pemesanan/bg_set_kwitansi.php",
 		"/F/XAMPP/htdocs/gcc-marketing/application/modules/dashboard/controllers/dashboard.php",
+		"/F/XAMPP/htdocs/gcc-marketing/application/modules/dashboard/controllers/pemesanan.php",
+		"/F/XAMPP/htdocs/gcc-marketing/application/modules/dashboard/controllers/pembayaran.php",
+		"/F/XAMPP/htdocs/gcc-marketing/application/views/flat-dot/pemesanan/bg_home.php",
 		"/F/UMS/PMB/administrasi_validasi/templates/cetak_sertifikat/registrasi.html",
 		"/F/UMS/PMB/administrasi_validasi/cetak_sertifikat/views.py",
 		"/F/UMS/PMB/administrasi_validasi/templates/sidebar.html",
@@ -836,17 +864,11 @@
 		"/C/Users/mn/Documents/test_000_catchforms.rml",
 		"/F/UMS/PMB/administrasi/templates/top_menu.html",
 		"/F/UMS/PMB/administrasi/templates/side_menu.html",
-		"/F/Project/hrd/templates/karyawan/detail_karyawan.html",
-		"/C/Users/mn/Desktop/email.html",
-		"/C/Users/mn/Desktop/email2.html",
-		"/C/Users/mn/Desktop/view_grafik_kumulatif.php",
-		"/C/Users/mn/Desktop/demo/scripts/respond.min.js",
-		"/F/UMS/PMB/administrasi/cetak_sertifikat/learningBarcode.py",
-		"/C/Users/mn/Desktop/contoh.php"
+		"/F/Project/hrd/templates/karyawan/detail_karyawan.html"
 	],
 	"find":
 	{
-		"height": 33.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -868,6 +890,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			",>",
+			"h2",
+			" $",
+			"BARCODE",
+			"barcode",
+			"jquery",
+			"pdf_create",
+			"pemesanan",
 			"Form Pembayaran",
 			"No. Nama Item Jumlah",
 			"$get_head->",
@@ -987,15 +1017,7 @@
 			"\"Balikpapan, 13/04/1990\"",
 			"100",
 			"  ",
-			"== ",
-			"m.soal_mhs =",
-			"soal_mhs =",
-			"is_cetak_sertifikat",
-			": m.",
-			"': m.",
-			"m.",
-			"strftime",
-			"', '"
+			"== "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1014,39 +1036,11 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "application/config/database.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 3227,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2588,
-								2588
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 585.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "application/modules/dashboard/controllers/pemesanan.php",
 					"semi_transient": false,
 					"settings":
@@ -1058,8 +1052,8 @@
 						"selection":
 						[
 							[
-								7139,
-								7149
+								6960,
+								6960
 							]
 						],
 						"settings":
@@ -1068,7 +1062,36 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3579.0,
+						"translation.y": 4001.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/modules/dashboard/controllers/pembayaran.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5922,
+								5931
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2993.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -1076,86 +1099,87 @@
 				},
 				{
 					"buffer": 2,
-					"file": "application/modules/dashboard/controllers/pembayaran.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7072,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5056,
-								5056
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1899.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "application/views/flat-dot/pembayaran/bg_cetak.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3974,
+						"buffer_size": 337,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								301,
-								301
+								56,
+								56
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1440.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "application/helpers/gen_pdf_helper.php",
+					"buffer": 3,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1120,
+						"buffer_size": 1217,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								352,
-								352
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"auto_name": "USE [ODS_2017_DEV]",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/views/flat-dot/pembayaran/bg_cetak_original.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1674.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -1163,56 +1187,89 @@
 				},
 				{
 					"buffer": 5,
+					"file": "application/views/flat-dot/bg_header.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 674,
+						"buffer_size": 5837,
 						"regions":
 						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										230,
-										240
-									],
-									[
-										270,
-										280
-									],
-									[
-										584,
-										594
-									]
-								],
-								"scope": ""
-							}
 						},
 						"selection":
 						[
 							[
-								275,
-								275
+								1168,
+								1174
 							]
 						],
 						"settings":
 						{
-							"detect_indentation": false,
-							"line_numbers": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([^ \t].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 41.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/models/app_load_data_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11093,
+								11093
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5603.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/views/flat-dot/pemesanan/bg_home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								854,
+								865
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -1267,16 +1324,40 @@
 		"selected_items":
 		[
 			[
+				"cetak",
+				"application\\views\\flat-dot\\pembayaran\\bg_cetak_original.php"
+			],
+			[
 				"bg_cetak",
 				"application\\views\\flat-dot\\pembayaran\\bg_cetak.php"
 			],
 			[
-				"bg_home",
-				"application\\views\\flat-dot\\pemesanan\\bg_home.php"
+				"pembayaran",
+				"application\\modules\\dashboard\\controllers\\pembayaran.php"
 			],
 			[
 				"bg_set_kwitansi",
 				"application\\views\\flat-dot\\pemesanan\\bg_set_kwitansi.php"
+			],
+			[
+				"app_load_data_model",
+				"application\\models\\app_load_data_model.php"
+			],
+			[
+				"pemesanan/bg_home",
+				"application\\views\\flat-dot\\pemesanan\\bg_home.php"
+			],
+			[
+				"pemesanan",
+				"application\\modules\\dashboard\\controllers\\pemesanan.php"
+			],
+			[
+				"dashboad",
+				"application\\modules\\dashboard\\controllers\\dashboard.php"
+			],
+			[
+				"bg_home",
+				"application\\views\\flat-dot\\pemesanan\\bg_home.php"
 			],
 			[
 				"pembaya",
@@ -1522,7 +1603,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 246.0,
 	"status_bar_visible": true,
 	"template_settings":

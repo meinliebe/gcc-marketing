@@ -94,9 +94,7 @@ class pembayaran extends CI_Controller {
 		}
 	}
 
-	function gambar($kode)
-
-	{
+	function barcode_ean13($kode){
 
 	$height = isset($_GET['height']) ? mysql_real_escape_string($_GET['height']) : '74';  $width = isset($_GET['width']) ? mysql_real_escape_string($_GET['width']) : '1'; //1,2,3,dst
 
@@ -124,6 +122,12 @@ class pembayaran extends CI_Controller {
 
 	}
 
+	function qr_code($param){
+		$this->load->library('zend');
+		$this->zend->load('Zend/qrlib');
+		QRcode::png($param);
+	}
+
 
 	function cetak($id_param)
 	{
@@ -141,6 +145,7 @@ class pembayaran extends CI_Controller {
 			
 			$get = $this->db->get_where("dlmbg_pembayaran",array("kode_pemesanan"=>$id_param))->row();
 			$d['barcode'] = $id_param;
+			// $d['barcode'] = $id_param;
 			// print_r($this->gambar($get->kode_pembayaran));die();
 			
 			$d['kode_pembayaran'] = $get->kode_pembayaran;
