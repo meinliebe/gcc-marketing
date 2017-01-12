@@ -2,7 +2,7 @@
 
 if ( ! function_exists('pdf_create'))
 {
-	function pdf_create($html, $filename, $stream=FALSE) 
+	function pdf_create($html, $filename, $stream) 
 	{
 		require_once("dompdf/dompdf_config.inc.php");
 		spl_autoload_register('DOMPDF_autoload');
@@ -13,7 +13,7 @@ if ( ! function_exists('pdf_create'))
 		$dompdf->render();
 		if ($stream) 
 		{
-			$dompdf->stream($filename.".pdf");
+			$dompdf->stream($filename.".pdf", array('Attachment'=>0));
 		} else 
 		{
 			$CI =& get_instance();
